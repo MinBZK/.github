@@ -6,4 +6,4 @@ Here we will post the [Code of Conduct](https://github.com/MinBZK/.github/blob/m
 
 - code completely public and accessible
 - code sourced from private repository here or elsewhere
-- code that was made public due to a Woo request making it focused on transparency and not reuse.
+- code that was made public due to a Woo request making it focused on transparency and not reuse
