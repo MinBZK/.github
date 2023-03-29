@@ -40,7 +40,8 @@ Never made an open source contribution before? Wondering how contributions work 
 
 ## Where can I go for help?
 
-If you need help, you can ask questions on our [Slack](https://praatmee.codefor.nl/), channel #algemeen.
+If you need help on a specific repositiory, you can ask the repository owners.
+If you need help on MinBZK repositories in general, you can e-mail opensource@minbzk.nl.
 
 ## What does the Code of Conduct mean for me?
 
