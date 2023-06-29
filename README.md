@@ -1,3 +1,7 @@
+> Onderstaande tekst komt van de OpenCatalogi [site](https://github.com/OpenCatalogi), een federatieve catalogus, passend in het nieuwe informatielandschap Common Ground.
+>
+> Aanleiding is een experiment met toevoegen van https://regels.overheid.nl/ zoals verwoord in [issue #321](https://github.com/MinBZK/regels.overheid.nl/issues/321).
+
 # Specificatie YAML voor Openbare Organisaties
 
 Het bestand `openCatalogi.yaml` is een voorgestelde standaard voor het identificeren van en verstrekken van informatie over openbare organisaties op GitHub. Dit bestand moet worden geplaatst in de  `.github`-map van de repository van een GitHub-organisatie. Het dient als een verklaring van de identiteit van de organisatie, inclusief de naam, website, contactgegevens en de software die het gebruikt en ondersteunt.
