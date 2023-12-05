@@ -1,0 +1,89 @@
+contact:
+  email: ''
+  phone: ''
+name: ''
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+- https://github.com/MinBZK/woo-besluit-broncode-digid-app
+- https://github.com/MinBZK/OperatieBRP
+- https://github.com/MinBZK/nl-wallet
+- https://github.com/MinBZK/regels.overheid.nl
+- https://github.com/MinBZK/woo-besluit-broncode-PLOOI
+- https://github.com/MinBZK/Algoritmeregister
+- https://github.com/MinBZK/design-system
+- https://github.com/MinBZK/Open-Source-Program-Office
+- https://github.com/MinBZK/helm.regels.overheid.nl
+- https://github.com/MinBZK/feedbackloop-overheid.nl
+- https://github.com/MinBZK/.github
+- https://github.com/MinBZK/dcat-ap-ronl
+- https://github.com/MinBZK/work-packages-library
+- https://github.com/MinBZK/REVA
+- https://github.com/MinBZK/gdi-interactie
+- https://github.com/MinBZK/LegitiMaat
+- https://github.com/MinBZK/BROMonitor
+- https://github.com/MinBZK/wetsanalyse
+- https://github.com/MinBZK/gdi-gegevensuitwisseling
+- https://github.com/MinBZK/gdi-toegang
+softwareSupported:
+- software: https://github.com/MinBZK/woo-besluit-broncode-digid-app
+  type: community
+- software: https://github.com/MinBZK/OperatieBRP
+  type: community
+- software: https://github.com/MinBZK/nl-wallet
+  type: community
+- software: https://github.com/MinBZK/regels.overheid.nl
+  type: community
+- software: https://github.com/MinBZK/woo-besluit-broncode-PLOOI
+  type: community
+- software: https://github.com/MinBZK/Algoritmeregister
+  type: community
+- software: https://github.com/MinBZK/design-system
+  type: community
+- software: https://github.com/MinBZK/Open-Source-Program-Office
+  type: community
+- software: https://github.com/MinBZK/helm.regels.overheid.nl
+  type: community
+- software: https://github.com/MinBZK/feedbackloop-overheid.nl
+  type: community
+- software: https://github.com/MinBZK/.github
+  type: community
+- software: https://github.com/MinBZK/dcat-ap-ronl
+  type: community
+- software: https://github.com/MinBZK/work-packages-library
+  type: community
+- software: https://github.com/MinBZK/REVA
+  type: community
+- software: https://github.com/MinBZK/gdi-interactie
+  type: community
+- software: https://github.com/MinBZK/LegitiMaat
+  type: community
+- software: https://github.com/MinBZK/BROMonitor
+  type: community
+- software: https://github.com/MinBZK/wetsanalyse
+  type: community
+- software: https://github.com/MinBZK/gdi-gegevensuitwisseling
+  type: community
+- software: https://github.com/MinBZK/gdi-toegang
+  type: community
+softwareUsed:
+- https://github.com/MinBZK/woo-besluit-broncode-digid-app
+- https://github.com/MinBZK/OperatieBRP
+- https://github.com/MinBZK/nl-wallet
+- https://github.com/MinBZK/regels.overheid.nl
+- https://github.com/MinBZK/woo-besluit-broncode-PLOOI
+- https://github.com/MinBZK/Algoritmeregister
+- https://github.com/MinBZK/design-system
+- https://github.com/MinBZK/Open-Source-Program-Office
+- https://github.com/MinBZK/helm.regels.overheid.nl
+- https://github.com/MinBZK/feedbackloop-overheid.nl
+- https://github.com/MinBZK/.github
+- https://github.com/MinBZK/dcat-ap-ronl
+- https://github.com/MinBZK/work-packages-library
+- https://github.com/MinBZK/REVA
+- https://github.com/MinBZK/gdi-interactie
+- https://github.com/MinBZK/LegitiMaat
+- https://github.com/MinBZK/BROMonitor
+- https://github.com/MinBZK/wetsanalyse
+- https://github.com/MinBZK/gdi-gegevensuitwisseling
+- https://github.com/MinBZK/gdi-toegang
+website: ''
