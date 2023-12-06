@@ -1,17 +1,8 @@
-publiccodeYmlVersion: '0.2'
-# The official name of the public organization
-name: 'Ministerie van Binnenlandse Zaken en Koninkrijksrelaties'
-
-# The official website of the public organization
-website: 'https://minbzk.nl/'
-
-# The contact details of the public organization
 contact:
-  email: 'Boris.Hoytema@minbzk.nl' # Public contact email
-  phone: '+31627300316' # Public contact phone number
-
-# List of software the public organization uses
-# Each item refers to the repository URL of the software
+  email: Boris.Hoytema@minbzk.nl
+  phone: '+31627300316'
+name: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+publiccodeYmlVersion: '0.2'
 softwareOwned:
 - https://github.com/MinBZK/woo-besluit-broncode-digid-app
 - https://github.com/MinBZK/OperatieBRP
