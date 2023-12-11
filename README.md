@@ -1,6 +1,6 @@
 > Onderstaande tekst komt van de OpenCatalogi [site](https://documentatie.opencatalogi.nl/), een federatieve catalogus, passend in het nieuwe informatielandschap Common Ground.
 >
-> Aanleiding is een experiment met toevoegen van https://regels.overheid.nl/ zoals verwoord in [issue #321](https://github.com/MinBZK/regels.overheid.nl/issues/321).
+> Aanleiding is een experiment met toevoegen van https://regels.overheid.nl/. Zie [issue #321](https://github.com/MinBZK/regels.overheid.nl/issues/321).
 
 # Welkom bij de documentatie van open catalogi!
 
