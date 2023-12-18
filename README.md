@@ -1,13 +1,22 @@
-> Onderstaande tekst komt van de OpenCatalogi [site](https://github.com/OpenCatalogi), een federatieve catalogus, passend in het nieuwe informatielandschap Common Ground.
+> Onderstaande tekst komt van de OpenCatalogi [site](https://documentatie.opencatalogi.nl/), een federatieve catalogus, passend in het nieuwe informatielandschap Common Ground.
 >
-> Aanleiding is een experiment met toevoegen van https://regels.overheid.nl/ zoals verwoord in [issue #321](https://github.com/MinBZK/regels.overheid.nl/issues/321).
+> Aanleiding is een experiment met toevoegen van https://regels.overheid.nl/. Zie [issue #321](https://github.com/MinBZK/regels.overheid.nl/issues/321).
 
-# Specificatie YAML voor Openbare Organisaties
+# Welkom bij de documentatie van open catalogi!
 
-Het bestand `openCatalogi.yaml` is een voorgestelde standaard voor het identificeren van en verstrekken van informatie over openbare organisaties op GitHub. Dit bestand moet worden geplaatst in de  `.github`-map van de repository van een GitHub-organisatie. Het dient als een verklaring van de identiteit van de organisatie, inclusief de naam, website, contactgegevens en de software die het gebruikt en ondersteunt.
+OpenCatalogi creëert een krachtig federatief systeem dat informatie verzamelt van verschillende overheidsorganisaties, deze indexeert en u de mogelijkheid biedt om deze index te gebruiken of uw eigen index te starten. Met behulp van API's en gestandaardiseerde dataformaten kunnen verschillende entiteiten hun informatie naadloos integreren in één federatieve catalogus. De React-frontend is gebaseerd op NL Design en kan worden aangepast aan de huisstijl van uw organisatie met behulp van Design Tokens.
 
-Door dit bestand te implementeren, kunnen openbare organisaties effectiever communiceren over hun software portfolio en bijdragen aan een transparant ecosysteem voor open-source. Het `openCatalogi.yaml`-bestand van elke organisatie biedt essentiële informatie die kan worden gebruikt door ontwikkelaars, burgers en andere belanghebbenden om de activiteiten en toewijding van de organisatie in het opensource domein te begrijpen.
+Wat OpenCatalogi uniek maakt, is dat de frontend serverless (via GitHub) kan draaien, waardoor deelnemende organisaties OpenCatalogi niet zelf hoeven te installeren om het te kunnen gebruiken. Zowel de frontend als de gegevens kunnen worden gehost op GitHub.
+Opzet
 
-Een belangrijk aspect van deze toewijding aan opensource is de ondersteuning die een organisatie biedt voor bepaalde software. Dit omvat zowel software die eigendom is van de organisatie zelf als software die eigendom is van andere organisaties. De geboden ondersteuning kan verschillende vormen aannemen, zoals onderhoud, hosting, software als een dienst (SaaS) of andere services. Deze details worden vastgelegd in een onderhoudsobject onder het veld `softwareSupported`.
+# De basismodule van Open Catalogi bestaat uit drie hoofdcomponenten:
 
-Het onderhoud-object vertegenwoordigt het type en niveau van ondersteuning dat de organisatie biedt voor een bepaalde software. Het bevat details zoals het type onderhoud en contactgegevens voor onderhoudsvragen.
+- Een genetwerkte omgeving voor het uitwisselen van gegevens, met een eigen zoekpagina.
+- Repositories die informatie leveren aan het netwerk (bijvoorbeeld [Open WOO](https://github.com/ConductionNL/woo-website-template)) en optioneel een eigen pagina hebben (bijvoorbeeld https://openwoo.app/).
+- Organisaties die informatie leveren aan het netwerk (bijvoorbeeld [Open Webconcept](https://github.com/OpenWebconcept)) en optioneel een eigen catalogus hebben (bijvoorbeeld [Open Webconcept](https://openwebconcept.github.io/.github/)).
+
+Met andere woorden, repositories en organisaties wisselen gegevens uit binnen het netwerk en met zichzelf.
+
+![Architectuur](./Img/architectuur_basic.svg)
+
+In een meer geavanceerde opzet kunnen ook andere bronnen dan repositories worden gebruikt (zoals API's) en kunnen organisaties hun eigen knooppunten starten. Meer informatie hierover vindt u in de architectuursectie.
