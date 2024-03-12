@@ -1,4 +1,4 @@
-name: MinBZK Open Catalogi Workflow
+name: MinBZK openCatalogi Workflow
 
 on:
   push:
